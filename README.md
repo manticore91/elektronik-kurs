@@ -1,5 +1,5 @@
 # Elektronik Kurs
-## Von Ralph ung Gerrit
+## Von Ralph und Gerrit
 
 Hier sind die Unterlagen zu dem Veranstalteten Kurs
 
