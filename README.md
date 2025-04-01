@@ -29,3 +29,10 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 Code Beispiel für GPIOs und Delay: Example_1.ino
 
 Code Beispiel für "If Else": Example_2.ino
+
+
+==============================================================================================
+
+Für intressierte die weiter/tiefer ins Thema wollen:
+
+[YouTube: Edi's Lab](https://www.youtube.com/@EdisTechlab)
