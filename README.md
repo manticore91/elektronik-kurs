@@ -9,4 +9,21 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
 **[Arduino Website](www.arduino.cc)**
 
+-----------------------------------------------------------------------------------------------
 
+
+Website für die Zusätzlichen ESP-Boards:
+
+**[LINK](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini)**
+
+Link für die Preferences:
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+
+-----------------------------------------------------------------------------------------------
+
+
+Code Beispiel für GPIOs und Delay: Example_1.ino
+
+Code Beispiel für "If Else": Example_2.ino
