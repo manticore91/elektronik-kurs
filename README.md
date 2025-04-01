@@ -7,14 +7,16 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
 ## Links für weitere Infotmationen und Selbstbilung
 
-**[Arduino Website](www.arduino.cc)**
+[Arduino Website](www.arduino.cc)
 
 -----------------------------------------------------------------------------------------------
 
 
 Website für die Zusätzlichen ESP-Boards:
 
-**[LINK](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini)**
+[LINK](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini)
+
+Siehe "Getting Startet" unter "3. Add ESP32 Board Support"
 
 Link für die Preferences:
 
