@@ -12,19 +12,31 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 -----------------------------------------------------------------------------------------------
 
 
-Website für die Zusätzlichen ESP-Boards:
+# Website für die Zusätzlichen ESP-Boards:
 
 [LINK](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini)
 
 Siehe "Getting Startet" unter "3. Add ESP32 Board Support"
 
-Link für die Preferences:
+## Link für die Preferences:
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 
 -----------------------------------------------------------------------------------------------
 
+# Test Sketch für die Hardware:
+
+## Benötigte Bibliotheken:
+
+- Adafruit NeoPixel
+- Adafruit GFX
+- Adafruit SSD1306
+- Adafruit DHT Sensor Library
+
+-----------------------------------------------------------------------------------------------
+
+# Codebeispiele aus dem Kurs
 
 Code Beispiel für GPIOs und Delay: Example_1.ino
 
