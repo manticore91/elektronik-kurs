@@ -50,6 +50,8 @@ Code Beispiel für "While Schleifen": Example_3.ino
 
 Code Beispiel für "For Schleifen": Example_4.ino
 
+Code Beispiel für Serielle Schnittstelle: Example_5.ino
+
 
 ==============================================================================================
 
