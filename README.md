@@ -5,11 +5,15 @@ Hier sind die Unterlagen zu dem Veranstalteten Kurs
 
 Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
-## Links für weitere Infotmationen und Selbstbilung
+-----------------------------------------------------------------------------------------------
+
+## Links für weitere Informationen und Selbstbilung
 
 [Arduino Website](www.arduino.cc)
 
------------------------------------------------------------------------------------------------
+[YouTube: Edi's Lab](https://www.youtube.com/@EdisTechlab)
+
+===============================================================================================
 
 
 # Website für die Zusätzlichen ESP-Boards:
@@ -42,9 +46,11 @@ Code Beispiel für GPIOs und Delay: Example_1.ino
 
 Code Beispiel für "If Else": Example_2.ino
 
+Code Beispiel für "While Schleifen": Example_3.ino
+
+Code Beispiel für "For Schleifen": Example_4.ino
+
 
 ==============================================================================================
 
-Für intressierte die weiter/tiefer ins Thema wollen:
 
-[YouTube: Edi's Lab](https://www.youtube.com/@EdisTechlab)
