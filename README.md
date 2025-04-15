@@ -13,7 +13,7 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
 [YouTube: Edi's Lab](https://www.youtube.com/@EdisTechlab)
 
-===============================================================================================
+-----------------------------------------------------------------------------------------------
 
 
 # Website für die Zusätzlichen ESP-Boards:
@@ -56,7 +56,13 @@ Code Beispiel für "For Schleifen": Example_4.ino
 
 Code Beispiel für Serielle Schnittstelle: Example_5.ino
 
+Code Beispiel für ADC: Example_6.ino
 
-==============================================================================================
+Code Beispiel für map() Funktion: Example_7.ino
+
+Code Beispiel für DHT11: Example_8.ino
+
+
+-----------------------------------------------------------------------------------------------
 
 
