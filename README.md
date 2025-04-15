@@ -7,7 +7,7 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
 -----------------------------------------------------------------------------------------------
 
-## Links für weitere Informationen und Selbstbilung
+## Links für weitere Informationen und Selbstbildung
 
 [Arduino Website](www.arduino.cc)
 
@@ -37,6 +37,10 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 - Adafruit GFX
 - Adafruit SSD1306
 - Adafruit DHT Sensor Library
+
+## Board
+
+MakerGo ESP32 C3 SuperMini
 
 -----------------------------------------------------------------------------------------------
 
